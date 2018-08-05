@@ -1,0 +1,13 @@
+{
+    "mysql": {
+        "host": "localhost",
+        "port": "3306",
+        "dialect": "mysql",
+        "user": "root",
+        "password": "",
+        "database": "expressapp",
+        "logging": false,
+        "freezeTableName": true,
+        "operatorsAliases": false
+    }
+}
