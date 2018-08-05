@@ -8,4 +8,4 @@ Follow below steps:
 
 2. 'npm install' 
 
-3. go to project root 'node app'   
+3. go to project root 'node index'   
